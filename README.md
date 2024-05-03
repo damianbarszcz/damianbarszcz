@@ -49,63 +49,6 @@
   <img alt="PhpUnit" src="https://img.shields.io/badge/-PhpUnit-green" />
 </p>
 
-<h2>💡 Open source projects </h2>
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🔥 Project</b></td>
-      <td><b>📖 Frontend</b></td>
-      <td><b>📕 Backend</b></td>
-      <td><b>📐Main technologies</b></td>
-      <td><b>📌Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Oppenium</b></td>
-      <td><a href="https://github.com/damianbarszcz/oppenium-client" target="_blank"><b>oppenium-client</b></a></td>
-      <td><a href="https://github.com/damianbarszcz/oppenium-server" target="_blank"><b>oppenium-server</b></a></td>
-      <td><b>React.js + Golang</b></td>
-      <td><b>E-commerce application</b></td>
-    </tr>
-    <tr>
-      <td><b>---</b></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b>---</b></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b>---</b></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b>---</b></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b>---</b></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td><a href="#" target="_blank"><b></b></a></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
 
 <h2> ⭐ Top languages </h2>
 
