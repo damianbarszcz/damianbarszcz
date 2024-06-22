@@ -2,8 +2,6 @@
 
 <p> Welcome in my github profile. I'm a fullstack engineer, robotics and chess hobbist. In the free time, I read, create and improve my personal skills.</p>
 
-[![Gmail](https://img.shields.io/badge/-mail.damianbarszcz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail.damianbarszcz@gmail.com)](mailto:mail.damianbarszcz@gmail.com)
-
 <h3>:question: Where to find me:</h3>
 <br/>
 <p>
